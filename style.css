@@ -151,8 +151,7 @@ p {
 	display: grid;
 	grid-template-columns: repeat(3, 30vmin);
 	grid-template-rows: repeat(3, 30vmin);
-  width:10px;
-  padding: 125px 50px 30px 5px; 
+        width:10px;
 }
 
 .item	{

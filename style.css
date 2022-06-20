@@ -84,9 +84,60 @@ p {
     transform: translate3d(85px,0,0);
   }
 }
-/*Shrinking for mobile*/
-@media (max-width: 768px) {
-  .waves {
+@media screen and (max-width: 991px) {
+ .waves {
+    height:40px;
+    min-height:40px;
+  }
+  .content {
+    height:30vh;
+  }
+  h1 {
+    font-size:24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+ .waves {
+    height:40px;
+    min-height:40px;
+  }
+  .content {
+    height:30vh;
+  }
+  h1 {
+    font-size:24px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+ .waves {
+    height:40px;
+    min-height:40px;
+  }
+  .content {
+    height:30vh;
+  }
+  h1 {
+    font-size:24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+ .waves {
+    height:40px;
+    min-height:40px;
+  }
+  .content {
+    height:30vh;
+  }
+  h1 {
+    font-size:24px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+ .waves {
     height:40px;
     min-height:40px;
   }

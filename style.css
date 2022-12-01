@@ -25,11 +25,7 @@ p {
 }
 
 .logo {
-  width:0px;
-  fill:white;
-  padding-right:15px;
-  display:inline-block;
-  vertical-align: middle;
+  text-align:left;
 }
 
 .inner-header {
